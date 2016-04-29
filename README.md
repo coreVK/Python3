@@ -2,7 +2,7 @@
 -------------------
 ###PDF_filter.py
 -------------------
-The filter will differ and then copy your files from a directory to the target directory if the file is not existed in your target directory using hash.
+The filter will differ and then copy your files from a directory to the target folder if the file is not existed in your target directory by using hash.
 ``` powershell
 $ python PDF_filter.py
 ```
